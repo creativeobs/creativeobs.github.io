@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello There!, Welcome to my Inventory of Projects"
+title: "Hello There, Welcome to my Inventory of Projects!"
 author_profile: true
 redirect_from: 
   - /about/
