@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Russel's innovation lab"
 title_separator          : "-"
 name                     : &name "Russel John Evangelista"
 description              : &description "Jr. Data Scientist"
