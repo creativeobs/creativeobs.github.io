@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my Innovation Lab!"
+title: "Welcome to my Innovation Lab! 👨‍🔬"
 author_profile: true
 redirect_from: 
   - /about/
