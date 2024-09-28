@@ -11,4 +11,7 @@ Welcome Aboard! I consider myself as an inventor and I use this space to publish
 
 About Me
 ======
+
+![russel](/images/russel.jpg){: .align-center height="600px"}
+
 Skilled data professional with expertise in data visualization tools like DOMO and programming languages including Python and R. Proficient in databases such as MySQL and PostgreSQL, utilizing various data science libraries and tools effectively. Currently interested in learning about large language models (LLMs) and aiming to provide value to the organization through continuous learning and a strong curiosity about diverse topics.
